@@ -1,3 +1,6 @@
+
+# 5-Day Weather Forecast (Java Swing UI)
+
 ## Features
 - Greeting label (English)
 - Search bar with emoji and search button
@@ -14,4 +17,4 @@
 
 ## Notes
 - This version uses dummy data.
-- For live forecast, OpenWeat
+- For live forecast, OpenWeatherMap API integration can be added.
